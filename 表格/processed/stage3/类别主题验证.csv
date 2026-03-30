@@ -1,0 +1,13 @@
+top_category,topic_id,topic_label_cn,topic_share,top_terms
+Electronics,0,价格/可用性与基础体验,0.3836734693877551,"watch, nice, remote, money, working, good product, value, value money, works, battery"
+Electronics,1,音频、线缆与外设表现,0.336734693877551,"sound, bass, cable, like, sound quality, battery, good product, best, earphones, use"
+Electronics,2,手机/电视/屏幕与电池特征,0.2795918367346939,"phone, tv, camera, battery, picture, screen, use, like, sound, budget"
+Home&Kitchen,0,安装、出水/加热与基础使用,0.24553571428571427,"water, coffee, installation, easy, time, hot, heating, heater, like, service"
+Home&Kitchen,1,风扇/清洁/噪音与房间场景,0.13169642857142858,"room, fan, speed, quality, air, noise, clean, jar, working, heater"
+Home&Kitchen,2,易用性、品质与性价比,0.6227678571428571,"easy, quality, easy use, product good, money, price, value, value money, nice product, best"
+Computers&Accessories,0,充电线缆与快充体验,0.45066666666666666,"cable, charging, fast, good product, fast charging, nice, original, working, price, usb"
+Computers&Accessories,1,鼠标/笔记本/外设使用体验,0.41333333333333333,"mouse, use, price, nice, good product, laptop, keyboard, money, best, easy"
+Computers&Accessories,2,USB、路由/WiFi与连接速度,0.136,"usb, speed, device, use, router, wifi, working, using, easy, drive"
+OfficeProducts,0,纸张/笔记本与基础质量,0.5161290322580645,"quality, pages, paper, money, notebook, great, value, value money, good product, quality good"
+OfficeProducts,1,书写、擦除与日常使用,0.2903225806451613,"pen, ink, best, use, product good, erase, good good, price, quality, just"
+OfficeProducts,2,钢笔/书写手感,0.1935483870967742,"pen, parker, writing, pens, like, smooth, feel, ink, fine, just"
